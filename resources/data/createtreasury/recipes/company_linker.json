@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BEB",
+    " B "
+  ],
+  "key": {
+    "B": { "item": "create:brass_ingot" },
+    "E": { "item": "create:electron_tube" }
+  },
+  "result": {
+    "item": "createtreasury:company_linker",
+    "count": 1
+  }
+}

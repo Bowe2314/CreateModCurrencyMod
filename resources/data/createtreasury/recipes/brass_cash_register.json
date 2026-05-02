@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAB",
+    "ECE",
+    "BAB"
+  ],
+  "key": {
+    "A": { "item": "create:brass_casing" },
+    "B": { "item": "create:brass_sheet" },
+    "C": { "item": "minecraft:chest" },
+    "E": { "item": "create:electron_tube" }
+  },
+  "result": {
+    "item": "createtreasury:brass_cash_register",
+    "count": 1
+  }
+}

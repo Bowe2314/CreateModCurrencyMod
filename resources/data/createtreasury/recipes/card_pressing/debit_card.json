@@ -1,0 +1,9 @@
+{
+  "type": "createtreasury:card_pressing",
+  "ingredients": [
+    {"item": "createtreasury:debit_card"}
+  ],
+  "results": [
+    {"item": "createtreasury:debit_card", "count": 1}
+  ]
+}

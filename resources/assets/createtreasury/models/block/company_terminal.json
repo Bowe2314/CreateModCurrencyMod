@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "createtreasury:block/company_terminal_front_animated",
+    "south": "createtreasury:block/company_terminal_side",
+    "east":  "createtreasury:block/company_terminal_side",
+    "west":  "createtreasury:block/company_terminal_side",
+    "up":    "createtreasury:block/company_terminal_top",
+    "down":  "createtreasury:block/company_terminal_bottom",
+    "particle": "createtreasury:block/company_terminal_side"
+  }
+}

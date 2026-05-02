@@ -1,0 +1,9 @@
+{
+  "type": "createtreasury:minting",
+  "ingredients": [
+    {"item": "create:brass_sheet"}
+  ],
+  "results": [
+    {"item": "createtreasury:brass_coin", "count": 2}
+  ]
+}

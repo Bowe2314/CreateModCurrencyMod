@@ -1,0 +1,9 @@
+{
+  "type": "createtreasury:minting",
+  "ingredients": [
+    {"item": "create:zinc_ingot"}
+  ],
+  "results": [
+    {"item": "createtreasury:zinc_coin", "count": 4}
+  ]
+}

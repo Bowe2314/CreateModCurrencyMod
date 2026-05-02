@@ -1,0 +1,9 @@
+{
+  "type": "createtreasury:minting",
+  "ingredients": [
+    {"item": "create:andesite_alloy"}
+  ],
+  "results": [
+    {"item": "createtreasury:andesite_coin", "count": 4}
+  ]
+}

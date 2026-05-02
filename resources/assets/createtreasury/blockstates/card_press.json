@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "createtreasury:block/card_press/block",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "createtreasury:block/card_press/block"
+		},
+		"facing=south": {
+			"model": "createtreasury:block/card_press/block",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "createtreasury:block/card_press/block",
+			"y": 270
+		}
+	}
+}
