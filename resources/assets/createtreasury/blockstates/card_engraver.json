@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"facing=north": { "model": "createtreasury:block/card_engraver" },
-		"facing=east":  { "model": "createtreasury:block/card_engraver", "y": 90  },
-		"facing=south": { "model": "createtreasury:block/card_engraver", "y": 180 },
-		"facing=west":  { "model": "createtreasury:block/card_engraver", "y": 270 }
-	}
-}

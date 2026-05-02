@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "createtreasury:block/company_terminal" },
-    "facing=south": { "model": "createtreasury:block/company_terminal", "y": 180 },
-    "facing=east":  { "model": "createtreasury:block/company_terminal", "y": 90 },
-    "facing=west":  { "model": "createtreasury:block/company_terminal", "y": 270 }
-  }
-}

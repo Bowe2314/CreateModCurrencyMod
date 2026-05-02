@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"facing=north": { "model": "createtreasury:block/brass_atm", "y": 90  },
-		"facing=east":  { "model": "createtreasury:block/brass_atm", "y": 180 },
-		"facing=south": { "model": "createtreasury:block/brass_atm", "y": 270 },
-		"facing=west":  { "model": "createtreasury:block/brass_atm"           }
-	}
-}
